@@ -16,6 +16,7 @@ export const TransactionsTable = styled.table `
     th, td {
         padding: 10px 15px;
 
+        text-align: center;
         border-right: 0.5px solid #ddd;
     }
 
