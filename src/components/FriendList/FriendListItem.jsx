@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Avatar, FriendsItem } from './FriendList.slyled';
+import { Avatar, FriendsItem } from './FriendList.styled';
 
 const StatusSpan = styled.span`
   width: 20px;

@@ -1,5 +1,5 @@
 // import { ProfileList } from 'components/Profile/Profile.styled';
-import { FriendsWrap } from './FriendList.slyled';
+import { FriendsWrap } from './FriendList.styled';
 import FriendListItem from './FriendListItem'; 
 
 export const FriendList = ({ friends }) => {
